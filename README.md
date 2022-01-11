@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @esbif
+- 👀 I’m interested in automating my job as a satellite network support engineer.
+- 🌱 I’m currently learning python and docker.
+- 💞️ I’m looking to collaborate on netdevops projects.
